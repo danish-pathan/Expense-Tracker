@@ -1,0 +1,46 @@
+/* index.css */
+body {
+    font-family: 'Space Mono', monospace;
+    background-color: #232323;
+  }
+
+  h1 {
+    color: #fff;
+  }
+
+  .card {
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+
+  .bg-light {
+    background-color: #000000;
+  }
+  
+  .form-control {
+    border-radius: 8px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  .btn-outline-primary {
+    color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-outline-primary:hover {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
